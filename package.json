@@ -1,0 +1,23 @@
+{
+  "name": "showdown-mermaid",
+  "version": "0.0.1",
+  "description": "add class label for mermaid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ijkzen/showdown-mermaid.git"
+  },
+  "keywords": [
+    "showdown",
+    "mermaid"
+  ],
+  "author": "ijkzen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ijkzen/showdown-mermaid/issues"
+  },
+  "homepage": "https://github.com/ijkzen/showdown-mermaid#readme"
+}
